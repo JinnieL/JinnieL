@@ -16,7 +16,7 @@
 	 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 		<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 		<img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=Macos&logoColor=white" />
-	<br>
+	<br><br>
 	<p> Frameworks & Platform <p>
 		<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white" />
 		<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
@@ -74,6 +74,10 @@
 <!--Hits 설정 -->
 <a href="https://github.com/JinnieL">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinnieL&count_bg=%23F3A49A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<!--
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinnieL&anuraghazra&theme=dracula&icons=true)&nbsp;
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinnieL&layout=compact&theme=dracula)
+ -->
 </a>
 </div align=center>
 
